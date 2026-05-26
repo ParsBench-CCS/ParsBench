@@ -18,3 +18,31 @@ ParsBench consists of complementary components designed to evaluate different as
 | LFQA | Long-form QA | Evaluates open-ended cultural explanation |
 | Multimodal QA | Image-text QA | Tests visual cultural understanding in MLLMs |
 
+## Key Features
+
+- Native Persian benchmark construction
+- Focus on culturally grounded commonsense reasoning
+- Human-verified questions and answers
+- LLM-assisted but human-validated dataset construction
+- Multiple task formats: MCQ, reasoning QA, LFQA, and multimodal QA
+- Evaluation of both LLMs and MLLMs
+- Coverage of diverse Persian cultural domains
+- ## Cultural Domains
+
+ParsBench covers a wide range of Persian cultural domains, including:
+
+- Traditions
+- Food
+- Idioms
+- Literature
+- Religion
+- History
+- Geography
+- Festivals
+- Souvenirs
+- Official days
+- Music
+- Media
+- Games
+- Herbal knowledge
+- Social norms
